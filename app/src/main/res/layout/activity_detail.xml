@@ -34,4 +34,5 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         tools:text="Peter Parker and his friends go on a summer trip to Europe. However, they will hardly be able to rest - Peter will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent." />
+
 </LinearLayout>

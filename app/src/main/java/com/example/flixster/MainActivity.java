@@ -140,7 +140,7 @@ public class MainActivity extends AppCompatActivity {
                     Log.d("smile", "on init success");
                     if (movie.getVoteAverage() >= 5){
                         youTubePlayer.loadVideo(youtubekey);
-                        youTubePlayerView.animate();
+
                     }
                     else{
                         youTubePlayer.cueVideo(youtubekey);
