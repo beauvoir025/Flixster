@@ -1,0 +1,5 @@
+<root>
+    <item name='org.json.JSONObject int getInt(java.lang.String)'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
