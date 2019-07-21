@@ -21,7 +21,7 @@
         android:layout_marginStart="126dp"
         android:layout_marginLeft="126dp"
         android:layout_marginTop="2dp"
-        android:textColor="@color/colorblanc"
+        android:textColor="@color/color4"
         android:textSize="24sp"
         tools:text="Spider-Man: Far from Home"
         />
@@ -34,7 +34,7 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentTop="true"
         android:layout_below="@id/tvTitle"
-        android:textColor="@color/colorblanc"
+        android:textColor="@color/color4"
         android:layout_marginStart="125dp"
         android:layout_marginLeft="200dp"
         android:layout_marginTop="40dp"

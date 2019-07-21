@@ -23,7 +23,7 @@
         android:layout_marginStart="126dp"
         android:layout_marginLeft="126dp"
         android:layout_marginTop="10dp"
-        android:textColor="@color/colorblanc"
+        android:textColor="@color/color4"
         android:textSize="24sp"
         tools:text="Spider-Man: Far from Home" />
 
@@ -37,7 +37,7 @@
         android:layout_marginStart="125dp"
         android:layout_marginLeft="125dp"
         android:layout_marginTop="77dp"
-        android:textColor="@color/colorblanc"
+        android:textColor="@color/color4"
         tools:text="Peter Parker and his friends go on a summer trip to Europe. However, they will hardly be able to rest - Peter will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent." />
 
 </RelativeLayout>
